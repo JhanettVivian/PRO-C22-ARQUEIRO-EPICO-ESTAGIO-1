@@ -1,0 +1,6 @@
+/*Vamos estilizar a página*/
+html, body{
+    /*estilizando as margens*/
+    margin: 0;
+    padding: 0;
+}
